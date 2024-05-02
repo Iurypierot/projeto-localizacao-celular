@@ -1,7 +1,7 @@
 * {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: -15px;
+    padding: 5px;
     box-sizing: border-box;
 }
 
@@ -11,6 +11,7 @@ header {
 }
 
 .link-header {
+    text-decoration: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -33,6 +34,13 @@ header {
     font-size: 16px;
     line-height: 24px;
     color: #FFFFFF;
+}
+
+.link-whatsapp img {
+    height: 60px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
 }
 
 .image-header {
