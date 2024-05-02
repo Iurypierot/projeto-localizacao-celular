@@ -7,4 +7,9 @@
 <br>
 <h2>Modelo</h2>
 <br>
-<img 
+<img src="https://github.com/Iurypierot/projeto-localizacao-celular/blob/master/img/novo%20locali.png?raw=true"/>
+<br>
+<h2>Tecnologia usada:</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
