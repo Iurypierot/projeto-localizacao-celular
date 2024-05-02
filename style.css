@@ -56,6 +56,7 @@ div {
 }
 
 h1 {
+    text-align: center;
     font-weight: 700;
     font-size: 62px;
     line-height: 82px;
